@@ -1,0 +1,22 @@
+# Sistema de Inventario - Descripción
+
+Este proyecto es un sistema de inventario desarrollado con una arquitectura de frontend y backend separada. 
+El frontend está construido utilizando React más Typescript.
+El backend utiliza Express para manejar las operaciones del servidor y la base de datos.
+
+## Estructura del Proyecto
+
+```
+inventory_dev/
+├── inventory_front/ ## proyecto frontend
+├── inventory_api/ ## proyecto backend
+```
+
+## Links de los repositorios
+
+A continuación se presentan los enlaces a los repositorios de Github para cada parte del proyecto:
+- Frontend: https://github.com/Edesro-xprox/Sistema-Inventario---React-Typescript.git
+- Backend: https://github.com/Edesro-xprox/API-Sistema-Inventario---Express.git
+
+**Última actualización:** Febrero 2026
+**Versión:** 0.0.0
